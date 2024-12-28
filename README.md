@@ -1,3 +1,3 @@
-## www.yulakhraj.in
+## yulakhraj.in
 
 My personal website with a downloadable resume.
